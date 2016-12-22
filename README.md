@@ -1,32 +1,3 @@
-# Top-down learning path: Machine Learning for Software Engineers
-
-<p align="center">
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">
-    <img alt="Top-down learning path: Machine Learning for Software Engineers" src="https://img.shields.io/badge/Machine%20Learning-Software%20Engineers-blue.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-  <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZuzooVn/machine-learning-for-software-engineers.svg">
-  </a>
-</p>
-
-Inspired by [Google Interview University](https://github.com/jwasham/google-interview-university).
-
-Translations: [Brazilian Portuguese](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-pt-BR.md) | [中文版本](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README-zh-CN.md)
-
-## What is it?
-
-This is my multi-month study plan for going from mobile developer (self-taught, no CS degree) to machine learning engineer.
-
-My main goal was to find an approach to studying Machine Learning that is mainly hands-on and abstracts most of the Math for the beginner. 
-This approach is unconventional because it’s the top-down and results-first approach designed for software engineers.
-
-Please, feel free to make any contributions you feel will make it better.
-
----
-
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -81,28 +52,6 @@ AFAIK, [There are two sides to machine learning](http://machinelearningmastery.c
 I think the best way for practice-focused methodology is something like ['practice — learning — practice'](http://machinelearningmastery.com/machine-learning-for-programmers/#comment-358985), that means where students first come with some existing projects with problems and solutions (practice) to get familiar with traditional methods in the area and perhaps also with their methodology. After practicing with some elementary experiences, they can go into the books and study the underlying theory, which serves to guide their future advanced practice and will enhance their toolbox of solving practical problems. Studying theory also further improves their understanding on the elementary experiences, and will help them acquire advanced experiences more quickly.
 
  It's a long plan. It's going to take me years. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Follow me
-I'm a Vietnamese Software Engineer who is really passionate and wants to work in the USA.
-
-How much did I work during this plan? Roughly 4 hours/night after a long, hard day at work.
-
-I'm on the journey. 
-
-- Twitter: [@Nam Vu](https://twitter.com/zuzoovn)
-
-| ![Nam Vu - Top-down learning path: machine learning for software engineers](http://sv1.upsieutoc.com/2016/10/08/331f241c8da44d0c43e9324d55440db6.md.jpg)|
-|:---:|
-| USA as heck | 
 
 ## Don't feel you aren't smart enough
 I get discouraged from books and courses that tell me as soon as I open them that multivariate calculus, inferential statistics and linear algebra are prerequisites. I still don’t know how to get started…
@@ -270,7 +219,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
-- [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [x] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
